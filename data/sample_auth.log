@@ -1,0 +1,5 @@
+Jan 15 08:10:01 server sshd[1001]: Failed password for admin from 203.0.113.10 port 49812 ssh2
+Jan 15 08:10:05 server sshd[1002]: Failed password for admin from 203.0.113.10 port 49815 ssh2
+Jan 15 08:10:09 server sshd[1003]: Failed password for admin from 203.0.113.10 port 49818 ssh2
+Jan 15 08:10:12 server sshd[1004]: Failed password for root from 198.51.100.25 port 50201 ssh2
+Jan 15 08:12:30 server sshd[1005]: Accepted password for student from 192.0.2.50 port 49900 ssh2

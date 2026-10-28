@@ -1,0 +1,21 @@
+{
+    "report_generated_utc": "2026-10-28T22:08:09.066473+00:00",
+    "tool_name": "Security Log Analyzer",
+    "alert_count": 2,
+    "alerts": [
+        {
+            "source_ip": "203.0.113.10",
+            "failed_login_attempts": 3,
+            "severity": "HIGH",
+            "detection_reason": "Repeated failed SSH login attempts",
+            "recommended_action": "Review account activity and block the IP if unauthorized."
+        },
+        {
+            "source_ip": "198.51.100.25",
+            "failed_login_attempts": 1,
+            "severity": "MEDIUM",
+            "detection_reason": "Repeated failed SSH login attempts",
+            "recommended_action": "Review account activity and block the IP if unauthorized."
+        }
+    ]
+}
